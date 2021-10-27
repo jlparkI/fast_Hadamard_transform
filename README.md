@@ -46,6 +46,6 @@ import fastHadamardTransform
 from fastHadamardTransform import fastHadamardArray, fastHadamard2dArray
 
 arrayIWantToTransform = rng.uniform(low=-10,high=10, size=(256))
-fastHadamardArray(corrected_arr)
+fastHadamardArray(arrayIWantToTransform)
 ```
 and that's all there is to it. Notice that the transform is performed in-place; this provides a small additional performance gain, but of course be aware of this if passing an array you are planning to modify later.
