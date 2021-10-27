@@ -1,9 +1,9 @@
 # fast_Hadamard_transform
 
-[link](#Overview)
-[link](#Speed_Compare)
-[link](#Installation)
-[link](#Use)
+[Overview](#Overview)
+[Speed Compare](#Speed_Compare)
+[Installation](#Installation)
+[Use](#Use)
 
 ### Overview
 This module is Python-wrapped C code to perform an unnormalized fast Hadamard transform
