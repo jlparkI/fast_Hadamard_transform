@@ -1,11 +1,8 @@
 # fast_Hadamard_transform
 
-[Overview](#Overview)
-
-[Speed Compare](#Speed_Compare)
-
-[Installation](#Installation)
-
+[Overview](#Overview)<br>
+[Speed Compare](#Speed_Compare)<br>
+[Installation](#Installation)<br>
 [Use](#Use)
 
 ### Overview
